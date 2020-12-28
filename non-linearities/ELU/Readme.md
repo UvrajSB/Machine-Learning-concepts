@@ -8,4 +8,4 @@ Activation function formula :   $f(x) =  x$                       $for        x>
 
 Graph:
 
-![https://github.com/UvrajSB/Machine-Learning-concepts/blob/patch-1/non-linearities/ELU/graph/ELU.png](ELU.png)
+![https://github.com/UvrajSB/Machine-Learning-concepts/blob/patch-1/non-linearities/ELU/graph/ELU.png](https://github.com/UvrajSB/Machine-Learning-concepts/blob/patch-1/non-linearities/ELU/graph/ELU.png)
